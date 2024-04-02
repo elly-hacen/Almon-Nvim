@@ -18,7 +18,7 @@ rm -rf ~/.local/share/nvim
 To install this configuration on Linux & macOS, run the following command:
 
 ```
-git clone git@github.com:elly-hacen/Almon-Nvim.git ~/.config/nvim                                                                                
+git clone git@github.com:elly-hacen/Almon-Nvim.git ~/.config/nvim
 ```
 
 Then, open up neovim in order to download and install the base configuration packages.
